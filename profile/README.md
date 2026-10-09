@@ -14,6 +14,6 @@
 | [vissue](https://github.com/leidarljos/vissue) | What does this node stand on, and who agrees? |
 | [claimdag](https://github.com/leidarljos/claimdag) | What is this session handing out? |
 
-[ljos-policyd](https://github.com/leidarljos/ljos-policyd) is argv law, not a store. Completing a claimdag node does not close a ticket.
+[ljos-policyd](https://github.com/leidarljos/ljos-policyd) is argv law, not a store. Completing a claimdag node does not close a ticket. [phronesis](https://github.com/leidarljos/phronesis) is the policy library behind that check when the binary is linked to it. [landscape](https://github.com/leidarljos/landscape) is optional. It reads where a memory settles, and which passes bridge or contradict it.
 
 Site: [leidarljos.github.io](https://leidarljos.github.io) · first write: [Write one claim. Search it back.](https://leidarljos.github.io/docs/start/) · the name: [About](https://leidarljos.github.io/docs/about/)
